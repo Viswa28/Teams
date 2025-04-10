@@ -1,0 +1,12 @@
+.leftFold
+{
+    width: 100%;
+}
+.menu-label{
+    font-size: 24px;
+}
+
+.menu-items{
+    border-bottom: #464775;
+    border-width: 1px;
+}

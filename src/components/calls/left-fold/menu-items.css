@@ -2,6 +2,7 @@
     padding: 8px 0px;
     display: flex;
     align-items: center;
+    border-bottom: #464775;
 
 }
 
@@ -19,9 +20,9 @@
 }
 .item-menu:hover
 {
-    background-color: #f3efea;
+    background-color: #9a9cdf;
 }
 .item-active{
-    background-color: #bb9361;
+    background-color: #cdcee7;
 }
 
